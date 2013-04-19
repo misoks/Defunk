@@ -1,19 +1,19 @@
-﻿for(var i = 0; i < 21; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
+﻿for(var i = 0; i < 34; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
 
 $axure.eventManager.pageLoad(
 function (e) {
 
 if (true) {
 
-SetWidgetRichText('u20', '<p style="text-align:left;"><span style="font-family:Helvetica;font-size:12px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;">&#149; ' + (GetGlobalVariableValue('AddedGoal1')) + '</span></p>');
+SetWidgetRichText('u28', '<p style="text-align:left;"><span style="font-family:Segoe UI;font-size:18px;font-weight:normal;font-style:normal;text-decoration:none;color:#009999;">' + (GetGlobalVariableValue('AddedGoal1')) + '</span></p>');
 
 }
 
 });
-gv_vAlignTable['u20'] = 'top';gv_vAlignTable['u18'] = 'center';document.getElementById('u17_img').tabIndex = 0;
+gv_vAlignTable['u20'] = 'center';gv_vAlignTable['u22'] = 'center';gv_vAlignTable['u24'] = 'top';document.getElementById('u25_img').tabIndex = 0;
 
-u17.style.cursor = 'pointer';
-$axure.eventManager.click('u17', function(e) {
+u25.style.cursor = 'pointer';
+$axure.eventManager.click('u25', function(e) {
 
 if (true) {
 
@@ -21,18 +21,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u16'] = 'top';gv_vAlignTable['u14'] = 'center';gv_vAlignTable['u10'] = 'center';document.getElementById('u11_img').tabIndex = 0;
-
-u11.style.cursor = 'pointer';
-$axure.eventManager.click('u11', function(e) {
-
-if (true) {
-
-    self.location.href="resources/reload.html#" + encodeURI($axure.globalVariableProvider.getLinkUrl($axure.pageData.url));
-
-}
-});
-gv_vAlignTable['u12'] = 'center';document.getElementById('u0_img').tabIndex = 0;
+gv_vAlignTable['u26'] = 'center';gv_vAlignTable['u28'] = 'top';gv_vAlignTable['u30'] = 'center';gv_vAlignTable['u31'] = 'top';gv_vAlignTable['u33'] = 'center';document.getElementById('u0_img').tabIndex = 0;
 
 u0.style.cursor = 'pointer';
 $axure.eventManager.click('u0', function(e) {
@@ -65,3 +54,26 @@ if (true) {
 
 }
 });
+gv_vAlignTable['u10'] = 'center';document.getElementById('u11_img').tabIndex = 0;
+
+u11.style.cursor = 'pointer';
+$axure.eventManager.click('u11', function(e) {
+
+if (true) {
+
+    self.location.href="resources/reload.html#" + encodeURI($axure.globalVariableProvider.getLinkUrl($axure.pageData.url));
+
+}
+});
+gv_vAlignTable['u12'] = 'center';document.getElementById('u13_img').tabIndex = 0;
+
+u13.style.cursor = 'pointer';
+$axure.eventManager.click('u13', function(e) {
+
+if (true) {
+
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('Settings.html');
+
+}
+});
+gv_vAlignTable['u14'] = 'center';gv_vAlignTable['u16'] = 'center';gv_vAlignTable['u18'] = 'center';

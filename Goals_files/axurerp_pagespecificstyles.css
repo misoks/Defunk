@@ -45,9 +45,9 @@ div {
 .u1 {
     position:absolute;
     left:2px;
-    top:5px;
+    top:4px;
     width:44px;
-    height:15px;
+    height:16px;
     ;
     ;
     ;
@@ -97,7 +97,7 @@ div {
 .u5_container {
     position:absolute;
     left:1px;
-    top:1px;
+    top:0px;
     width:320px;
     height:46px;
 }
@@ -130,9 +130,9 @@ div {
 
 .u7_container {
     position:absolute;
-    left:0px;
-    top:431px;
-    width:79px;
+    left:2px;
+    top:429px;
+    width:78px;
     height:51px;
 }
 
@@ -140,7 +140,7 @@ div {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:85px;
+    width:84px;
     height:57px;
 }
 
@@ -148,8 +148,8 @@ div {
     position:absolute;
     left:2px;
     top:18px;
-    width:75px;
-    height:15px;
+    width:74px;
+    height:16px;
     ;
     ;
     ;
@@ -159,14 +159,14 @@ div {
 }
 
 .u9_normal {
-    background-image: url('../Nav_Structure_files/u6_normal.png');
+    background-image: url('../Nav_Structure_files/u4_normal.png');
 }
 
 .u9_container {
     position:absolute;
-    left:79px;
-    top:431px;
-    width:83px;
+    left:82px;
+    top:429px;
+    width:78px;
     height:51px;
 }
 
@@ -174,7 +174,7 @@ div {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:89px;
+    width:84px;
     height:57px;
 }
 
@@ -182,8 +182,8 @@ div {
     position:absolute;
     left:2px;
     top:18px;
-    width:79px;
-    height:15px;
+    width:74px;
+    height:16px;
     ;
     ;
     ;
@@ -193,14 +193,14 @@ div {
 }
 
 .u11_normal {
-    background-image: url('../Nav_Structure_files/u8_normal.png');
+    background-image: url('../Nav_Structure_files/u4_normal.png');
 }
 
 .u11_container {
     position:absolute;
     left:162px;
-    top:431px;
-    width:77px;
+    top:429px;
+    width:78px;
     height:51px;
 }
 
@@ -208,7 +208,7 @@ div {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:83px;
+    width:84px;
     height:57px;
 }
 
@@ -216,8 +216,8 @@ div {
     position:absolute;
     left:2px;
     top:18px;
-    width:73px;
-    height:15px;
+    width:74px;
+    height:16px;
     ;
     ;
     ;
@@ -227,14 +227,14 @@ div {
 }
 
 .u13_normal {
-    background-image: url('../Nav_Structure_files/u6_normal.png');
+    background-image: url('../Nav_Structure_files/u4_normal.png');
 }
 
 .u13_container {
     position:absolute;
-    left:239px;
-    top:431px;
-    width:83px;
+    left:242px;
+    top:429px;
+    width:78px;
     height:51px;
 }
 
@@ -242,7 +242,7 @@ div {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:89px;
+    width:84px;
     height:57px;
 }
 
@@ -250,8 +250,8 @@ div {
     position:absolute;
     left:2px;
     top:18px;
-    width:79px;
-    height:15px;
+    width:74px;
+    height:16px;
     ;
     ;
     ;
@@ -260,12 +260,32 @@ div {
     word-wrap:break-word;
 }
 
+.u15_normal {
+    background-image: url('../Nav_Structure_files/u12_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:96px;
+    top:429px;
+    width:50px;
+    height:50px;
+}
+
+#u15_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:50px;
+    height:50px;
+}
+
 .u16 {
     position:absolute;
-    left:86px;
-    top:14px;
-    width:150px;
-    height:21px;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
     ;
     ;
     ;
@@ -275,31 +295,31 @@ div {
 }
 
 .u17_normal {
-    background-image: url('../Back_Button_files/Back_Button_u0_normal.png');
+    background-image: url('../Nav_Structure_files/u14_normal.png');
 }
 
 .u17_container {
     position:absolute;
-    left:10px;
-    top:10px;
-    width:48px;
-    height:25px;
+    left:261px;
+    top:435px;
+    width:40px;
+    height:40px;
 }
 
 #u17_img {
     position:absolute;
-    left:-3px;
-    top:-3px;
-    width:54px;
-    height:31px;
+    left:0px;
+    top:0px;
+    width:40px;
+    height:40px;
 }
 
 .u18 {
     position:absolute;
     left:2px;
-    top:5px;
-    width:44px;
-    height:15px;
+    top:12px;
+    width:36px;
+    height:16px;
     ;
     ;
     ;
@@ -308,12 +328,210 @@ div {
     word-wrap:break-word;
 }
 
+.u19_normal {
+    background-image: url('../Nav_Structure_files/u16_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:21px;
+    top:435px;
+    width:40px;
+    height:40px;
+}
+
+#u19_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:40px;
+    height:40px;
+}
+
 .u20 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_normal {
+    background-image: url('../Nav_Structure_files/u18_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:184px;
+    top:438px;
+    width:34px;
+    height:34px;
+}
+
+#u21_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:34px;
+    height:34px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:30px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:86px;
+    top:10px;
+    width:150px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../Back_Button_files/Back_Button_u0_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:10px;
+    top:10px;
+    width:48px;
+    height:25px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:54px;
+    height:31px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:44px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28 {
     position:absolute;
     left:11px;
     top:67px;
-    width:286px;
-    height:15px;
+    width:259px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_normal {
+    background-image: url('../Goals_files/u29_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:10px;
+    top:370px;
+    width:51px;
+    height:51px;
+}
+
+#u29_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:51px;
+    height:51px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:47px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:69px;
+    top:385px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_normal {
+    background-image: url('../Goals_files/u32_normal.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:279px;
+    top:60px;
+    width:37px;
+    height:37px;
+}
+
+#u32_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:37px;
+    height:37px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:33px;
+    height:16px;
     ;
     ;
     ;

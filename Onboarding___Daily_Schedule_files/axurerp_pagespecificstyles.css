@@ -45,9 +45,9 @@ div {
 .u1 {
     position:absolute;
     left:2px;
-    top:5px;
+    top:4px;
     width:44px;
-    height:15px;
+    height:16px;
     ;
     ;
     ;
@@ -264,9 +264,9 @@ div {
 
 .u15_container {
     position:absolute;
-    left:180px;
+    left:11px;
     top:433px;
-    width:129px;
+    width:82px;
     height:36px;
 }
 
@@ -274,45 +274,11 @@ div {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:135px;
-    height:42px;
-}
-
-.u16 {
-    position:absolute;
-    left:2px;
-    top:8px;
-    width:125px;
-    height:19px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u17_normal {
-    background-image: url('../Onboarding___Daily_Schedule_files/u17_normal.png');
-}
-
-.u17_container {
-    position:absolute;
-    left:11px;
-    top:433px;
-    width:82px;
-    height:36px;
-}
-
-#u17_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
     width:88px;
     height:42px;
 }
 
-.u18 {
+.u16 {
     position:absolute;
     left:2px;
     top:8px;
@@ -326,7 +292,7 @@ div {
     word-wrap:break-word;
 }
 
-#u19 {
+#u17 {
     position:absolute;
     left:0px;
     top:128px;
@@ -335,7 +301,7 @@ div {
     overflow:hidden;
 }
 
-#pd0u19 {
+#pd0u17 {
     position:absolute;
     left:0px;
     top:0px;
@@ -347,11 +313,11 @@ div {
     -ms-overflow-x:hidden;
 }
 
-.u20_normal {
-    background-image: url('../Onboarding___Daily_Schedule_files/u20_normal.png');
+.u18_normal {
+    background-image: url('../Onboarding___Daily_Schedule_files/u18_normal.png');
 }
 
-.u20_container {
+.u18_container {
     position:absolute;
     left:0px;
     top:0px;
@@ -359,7 +325,7 @@ div {
     height:510px;
 }
 
-#u20_img {
+#u18_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -367,7 +333,7 @@ div {
     height:516px;
 }
 
-.u21 {
+.u19 {
     position:absolute;
     left:2px;
     top:247px;
@@ -381,11 +347,11 @@ div {
     word-wrap:break-word;
 }
 
-.u22_normal {
-    background-image: url('../Onboarding___Daily_Schedule_files/u22_normal.png');
+.u20_normal {
+    background-image: url('../Onboarding___Daily_Schedule_files/u20_normal.png');
 }
 
-.u22_container {
+.u20_container {
     position:absolute;
     left:10px;
     top:10px;
@@ -393,7 +359,7 @@ div {
     height:140px;
 }
 
-#u22_img {
+#u20_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -401,7 +367,7 @@ div {
     height:146px;
 }
 
-.u23 {
+.u21 {
     position:absolute;
     left:2px;
     top:62px;
@@ -415,7 +381,7 @@ div {
     word-wrap:break-word;
 }
 
-.u24 {
+.u22 {
     position:absolute;
     left:18px;
     top:14px;
@@ -429,7 +395,7 @@ div {
     word-wrap:break-word;
 }
 
-.u25 {
+.u23 {
     position:absolute;
     left:18px;
     top:45px;
@@ -445,6 +411,20 @@ div {
     font-weight:normal;
     text-decoration:none;
     
+}
+
+.u25 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:12px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
 }
 
 .u27 {
@@ -531,21 +511,7 @@ div {
     word-wrap:break-word;
 }
 
-.u39 {
-    position:absolute;
-    left:16px;
-    top:0px;
-    width:12px;
-    height:19px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u40 {
+.u38 {
     position:absolute;
     left:148px;
     top:45px;
@@ -563,7 +529,7 @@ div {
     
 }
 
-.u41 {
+.u39 {
     position:absolute;
     left:233px;
     top:45px;
@@ -581,7 +547,7 @@ div {
     
 }
 
-.u42 {
+.u40 {
     position:absolute;
     left:217px;
     top:48px;
@@ -595,11 +561,11 @@ div {
     word-wrap:break-word;
 }
 
-.u43_normal {
-    background-image: url('../Onboarding___Daily_Schedule_files/u43_normal.png');
+.u41_normal {
+    background-image: url('../Onboarding___Daily_Schedule_files/u41_normal.png');
 }
 
-.u43_container {
+.u41_container {
     position:absolute;
     left:4px;
     top:90px;
@@ -607,7 +573,7 @@ div {
     height:46px;
 }
 
-#u43_img {
+#u41_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -615,7 +581,7 @@ div {
     height:46px;
 }
 
-.u44 {
+.u42 {
     position:absolute;
     left:2px;
     top:15px;
@@ -629,7 +595,7 @@ div {
     word-wrap:break-word;
 }
 
-.u45 {
+.u43 {
     position:absolute;
     left:50px;
     top:115px;
@@ -643,11 +609,11 @@ div {
     word-wrap:break-word;
 }
 
-.u46_normal {
-    background-image: url('../Onboarding___Daily_Schedule_files/u46_normal.png');
+.u44_normal {
+    background-image: url('../Onboarding___Daily_Schedule_files/u44_normal.png');
 }
 
-.u46_container {
+.u44_container {
     position:absolute;
     left:285px;
     top:14px;
@@ -655,7 +621,7 @@ div {
     height:20px;
 }
 
-#u46_img {
+#u44_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -663,7 +629,7 @@ div {
     height:20px;
 }
 
-.u47 {
+.u45 {
     position:absolute;
     left:2px;
     top:2px;
@@ -677,11 +643,11 @@ div {
     word-wrap:break-word;
 }
 
-.u48_normal {
-    background-image: url('../Onboarding___Daily_Schedule_files/u22_normal.png');
+.u46_normal {
+    background-image: url('../Onboarding___Daily_Schedule_files/u20_normal.png');
 }
 
-.u48_container {
+.u46_container {
     position:absolute;
     left:10px;
     top:165px;
@@ -689,7 +655,7 @@ div {
     height:140px;
 }
 
-#u48_img {
+#u46_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -697,7 +663,7 @@ div {
     height:146px;
 }
 
-.u49 {
+.u47 {
     position:absolute;
     left:2px;
     top:62px;
@@ -711,7 +677,7 @@ div {
     word-wrap:break-word;
 }
 
-.u50 {
+.u48 {
     position:absolute;
     left:18px;
     top:169px;
@@ -725,7 +691,7 @@ div {
     word-wrap:break-word;
 }
 
-.u51 {
+.u49 {
     position:absolute;
     left:18px;
     top:200px;
@@ -741,6 +707,20 @@ div {
     font-weight:normal;
     text-decoration:none;
     
+}
+
+.u51 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:12px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
 }
 
 .u53 {
@@ -827,21 +807,7 @@ div {
     word-wrap:break-word;
 }
 
-.u65 {
-    position:absolute;
-    left:16px;
-    top:0px;
-    width:12px;
-    height:19px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u66 {
+.u64 {
     position:absolute;
     left:148px;
     top:200px;
@@ -859,7 +825,7 @@ div {
     
 }
 
-.u67 {
+.u65 {
     position:absolute;
     left:233px;
     top:200px;
@@ -877,7 +843,7 @@ div {
     
 }
 
-.u68 {
+.u66 {
     position:absolute;
     left:217px;
     top:203px;
@@ -891,11 +857,11 @@ div {
     word-wrap:break-word;
 }
 
-.u69_normal {
-    background-image: url('../Onboarding___Daily_Schedule_files/u43_normal.png');
+.u67_normal {
+    background-image: url('../Onboarding___Daily_Schedule_files/u41_normal.png');
 }
 
-.u69_container {
+.u67_container {
     position:absolute;
     left:4px;
     top:245px;
@@ -903,7 +869,7 @@ div {
     height:46px;
 }
 
-#u69_img {
+#u67_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -911,7 +877,7 @@ div {
     height:46px;
 }
 
-.u70 {
+.u68 {
     position:absolute;
     left:2px;
     top:15px;
@@ -925,7 +891,7 @@ div {
     word-wrap:break-word;
 }
 
-.u71 {
+.u69 {
     position:absolute;
     left:50px;
     top:270px;
@@ -939,11 +905,11 @@ div {
     word-wrap:break-word;
 }
 
-.u72_normal {
-    background-image: url('../Onboarding___Daily_Schedule_files/u46_normal.png');
+.u70_normal {
+    background-image: url('../Onboarding___Daily_Schedule_files/u44_normal.png');
 }
 
-.u72_container {
+.u70_container {
     position:absolute;
     left:285px;
     top:169px;
@@ -951,7 +917,7 @@ div {
     height:20px;
 }
 
-#u72_img {
+#u70_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -959,7 +925,7 @@ div {
     height:20px;
 }
 
-.u73 {
+.u71 {
     position:absolute;
     left:2px;
     top:2px;
@@ -973,11 +939,11 @@ div {
     word-wrap:break-word;
 }
 
-.u74_normal {
-    background-image: url('../Onboarding___Daily_Schedule_files/u22_normal.png');
+.u72_normal {
+    background-image: url('../Onboarding___Daily_Schedule_files/u20_normal.png');
 }
 
-.u74_container {
+.u72_container {
     position:absolute;
     left:11px;
     top:322px;
@@ -985,7 +951,7 @@ div {
     height:140px;
 }
 
-#u74_img {
+#u72_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -993,7 +959,7 @@ div {
     height:146px;
 }
 
-.u75 {
+.u73 {
     position:absolute;
     left:2px;
     top:62px;
@@ -1007,7 +973,7 @@ div {
     word-wrap:break-word;
 }
 
-.u76 {
+.u74 {
     position:absolute;
     left:19px;
     top:326px;
@@ -1021,7 +987,7 @@ div {
     word-wrap:break-word;
 }
 
-.u77 {
+.u75 {
     position:absolute;
     left:19px;
     top:357px;
@@ -1037,6 +1003,20 @@ div {
     font-weight:normal;
     text-decoration:none;
     
+}
+
+.u77 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:12px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
 }
 
 .u79 {
@@ -1123,21 +1103,7 @@ div {
     word-wrap:break-word;
 }
 
-.u91 {
-    position:absolute;
-    left:16px;
-    top:0px;
-    width:12px;
-    height:19px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u92 {
+.u90 {
     position:absolute;
     left:149px;
     top:357px;
@@ -1155,7 +1121,7 @@ div {
     
 }
 
-.u93 {
+.u91 {
     position:absolute;
     left:234px;
     top:357px;
@@ -1173,7 +1139,7 @@ div {
     
 }
 
-.u94 {
+.u92 {
     position:absolute;
     left:218px;
     top:360px;
@@ -1187,11 +1153,11 @@ div {
     word-wrap:break-word;
 }
 
-.u95_normal {
-    background-image: url('../Onboarding___Daily_Schedule_files/u43_normal.png');
+.u93_normal {
+    background-image: url('../Onboarding___Daily_Schedule_files/u41_normal.png');
 }
 
-.u95_container {
+.u93_container {
     position:absolute;
     left:5px;
     top:402px;
@@ -1199,7 +1165,7 @@ div {
     height:46px;
 }
 
-#u95_img {
+#u93_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -1207,7 +1173,7 @@ div {
     height:46px;
 }
 
-.u96 {
+.u94 {
     position:absolute;
     left:2px;
     top:15px;
@@ -1221,7 +1187,7 @@ div {
     word-wrap:break-word;
 }
 
-.u97 {
+.u95 {
     position:absolute;
     left:51px;
     top:427px;
@@ -1235,11 +1201,11 @@ div {
     word-wrap:break-word;
 }
 
-.u98_normal {
-    background-image: url('../Onboarding___Daily_Schedule_files/u46_normal.png');
+.u96_normal {
+    background-image: url('../Onboarding___Daily_Schedule_files/u44_normal.png');
 }
 
-.u98_container {
+.u96_container {
     position:absolute;
     left:286px;
     top:326px;
@@ -1247,7 +1213,7 @@ div {
     height:20px;
 }
 
-#u98_img {
+#u96_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -1255,7 +1221,7 @@ div {
     height:20px;
 }
 
-.u99 {
+.u97 {
     position:absolute;
     left:2px;
     top:2px;
@@ -1269,12 +1235,46 @@ div {
     word-wrap:break-word;
 }
 
-.u100 {
+.u98 {
     position:absolute;
     left:102px;
     top:475px;
     width:140px;
     height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u99_normal {
+    background-image: url('../Onboarding___Daily_Schedule_files/u99_normal.png');
+}
+
+.u99_container {
+    position:absolute;
+    left:78px;
+    top:476px;
+    width:20px;
+    height:20px;
+}
+
+#u99_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:20px;
+    height:20px;
+}
+
+.u100 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:16px;
+    height:16px;
     ;
     ;
     ;
@@ -1289,47 +1289,13 @@ div {
 
 .u101_container {
     position:absolute;
-    left:78px;
-    top:476px;
-    width:20px;
-    height:20px;
-}
-
-#u101_img {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:20px;
-    height:20px;
-}
-
-.u102 {
-    position:absolute;
-    left:2px;
-    top:2px;
-    width:16px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u103_normal {
-    background-image: url('../Onboarding___Daily_Schedule_files/u103_normal.png');
-}
-
-.u103_container {
-    position:absolute;
     left:1px;
     top:91px;
     width:320px;
     height:37px;
 }
 
-#u103_img {
+#u101_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -1337,7 +1303,7 @@ div {
     height:43px;
 }
 
-.u104 {
+.u102 {
     position:absolute;
     left:2px;
     top:10px;
@@ -1351,7 +1317,7 @@ div {
     word-wrap:break-word;
 }
 
-#u105 {
+#u103 {
     position:absolute;
     left:12px;
     top:96px;
@@ -1360,7 +1326,7 @@ div {
     overflow:hidden;
 }
 
-#pd0u105 {
+#pd0u103 {
     position:absolute;
     left:0px;
     top:0px;
@@ -1369,12 +1335,46 @@ div {
     
 }
 
-.u106 {
+.u104 {
     position:absolute;
     left:0px;
     top:0px;
     width:298px;
     height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u105_normal {
+    background-image: url('../Onboarding___Daily_Schedule_files/Back_Button_u105_normal.png');
+}
+
+.u105_container {
+    position:absolute;
+    left:181px;
+    top:433px;
+    width:129px;
+    height:36px;
+}
+
+#u105_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:135px;
+    height:42px;
+}
+
+.u106 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:125px;
+    height:22px;
     ;
     ;
     ;
